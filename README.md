@@ -4,16 +4,16 @@ This is a simple Tic Tac Toe game built using HTML, Tailwind CSS, and JavaScript
 
 ## Features
 
-Two-player mode
-Responsive design using Tailwind CSS
-Interactive UI with JavaScript
-Win detection and game reset functionality
+Two-player mode <br/>
+Responsive design using Tailwind CSS<br/>
+Interactive UI with JavaScript<br/>
+Win detection and game reset functionality<br/>
 
 ## Technologies Used
 
-HTML
-Tailwind CSS
-JavaScript
+HTML<br/>
+Tailwind CSS<br/>
+JavaScript<br/>
 
 ## Screenshots
 
